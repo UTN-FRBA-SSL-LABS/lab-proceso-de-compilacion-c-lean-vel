@@ -92,3 +92,5 @@ int main(void) {
 void imprimir_separador(void) {
     printf("----------------------------------------\n");
 }
+
+prueba
